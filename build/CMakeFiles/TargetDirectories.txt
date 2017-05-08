@@ -1,0 +1,3 @@
+/home/carlos/Pila/build/CMakeFiles/edit_cache.dir
+/home/carlos/Pila/build/CMakeFiles/rebuild_cache.dir
+/home/carlos/Pila/build/CMakeFiles/Pila.dir

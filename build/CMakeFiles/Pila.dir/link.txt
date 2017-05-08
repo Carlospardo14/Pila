@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Pila.dir/src/Nodo.cpp.o CMakeFiles/Pila.dir/src/Pila.cpp.o CMakeFiles/Pila.dir/src/main.cpp.o  -o Pila -rdynamic 
